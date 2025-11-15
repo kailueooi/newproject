@@ -1,0 +1,2 @@
+*, x=0.030, y=0.320, frequency=1, skip=False, adjust=False
+    WindFlourish, attacks=2, repetitions=1
